@@ -1,4 +1,4 @@
-## Hi there 👋
+## Get to know James Rowe
 
 <!--
 My name is James Rowe and I am a Data Science and Analytics Master's student. I work a lot with R, Python, and SAS to get descriptive and inferential statistics from large datasets.
